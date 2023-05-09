@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
   
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=Hi%20I'm%20Wooki&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&text=Hi%20I'm%20Wooki&fontSize=50)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=boogiewooki02)](https://github.com/boogiewooki02/github-readme-stats)
 
