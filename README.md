@@ -17,4 +17,4 @@ Here are some ideas to get you started:
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=&text=Hi%20I'm%20Wooki&fontSize=50)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=boogiewooki02&theme=highcontrast)](https://github.com/boogiewooki02/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=boogiewooki02&theme=dark](https://github.com/boogiewooki02/github-readme-stats)
