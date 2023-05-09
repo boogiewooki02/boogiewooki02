@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **boogiewooki02/boogiewooki02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+  
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=Hi%20I'm%20Wooki&fontSize=50)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=boogiewooki02)](https://github.com/boogiewooki02/github-readme-stats)
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dw100100)](https://solved.ac/dw100100)
