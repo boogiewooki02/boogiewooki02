@@ -19,5 +19,3 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=boogiewooki02)](https://github.com/boogiewooki02/github-readme-stats)
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dw100100)](https://solved.ac/dw100100)
