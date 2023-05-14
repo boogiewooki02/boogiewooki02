@@ -1,4 +1,4 @@
-
+🙋‍♂️ 안녕하세요 김동욱입니다!🙋‍♂️
 
 <!--
 **boogiewooki02/boogiewooki02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=Hi%20I'm%20Wooki&fontSize=50)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=boogiewooki02&show_icons=true&theme=dark)
