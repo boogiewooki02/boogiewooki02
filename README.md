@@ -5,12 +5,15 @@
 
 <br/>
 
-## 🏛️ Activities
-- 2025 인공지능·데이터분석 연합동아리 ToBig’s
-- 2025 AWS Cloud Club Hongik 3기
-- 2025 SK Networks Family AI Camp 13기 수료
-- 2024 홍익대학교 멋쟁이사자처럼 12기 FE
-- 2023 홍익대학교 교내 개발 학회 GDSC Hongik
+## 👤 Profile
+
+* 홍익대학교 컴퓨터공학과 <sub>2022.03~</sub>
+* 신촌 연합 IT 창업동아리 CEOS 23기 <sub>2026.03~</sub>
+* ToBig’s 인공지능·데이터분석 연합동아리 24기 <sub>2025.07~</sub>
+* AWS Cloud Club Hongik 3기 <sub>2025.09~12</sub>
+* SK Networks Family AI Camp 13기 수료 <sub>2025.03~09</sub>
+* 홍익대학교 멋쟁이사자처럼 12기 FE <sub>2024.03~2025.01</sub>
+* 홍익대학교 교내 개발 학회 GDSC Hongik <sub>2023.11~2024.01</sub>
 
 <br/>
 
