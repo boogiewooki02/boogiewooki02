@@ -1,7 +1,7 @@
-## Hi! I'm DONGWOOK KIM 👋
-- 📚 Blog: https://boogiewooki.tistory.com/
-- ✉️ Email: boogiewooki02@gmail.com
-- 🐙 GitHub: https://github.com/boogiewooki02
+## ✉️ Contact
+- Blog: https://boogiewooki.tistory.com/
+- Email: boogiewooki02@gmail.com
+- GitHub: https://github.com/boogiewooki02
 
 <br/>
 
@@ -14,15 +14,6 @@
 * SK Networks Family AI Camp 13기 수료 <sub>2025.03~09</sub>
 * 홍익대학교 멋쟁이사자처럼 12기 FE <sub>2024.03~2025.01</sub>
 * 홍익대학교 교내 개발 학회 GDSC Hongik <sub>2023.11~2024.01</sub>
-
-<br/>
-
-## 📂 Projects
-- [[2025.11 ~ 2026.02] Full Stack & AI : Is It AI, 생성형 AI 이미지 위·변조 판별 서비스 🧠](https://github.com/boogiewooki02/AI-Detector-Project)
-- [[2025.07 ~ 2025.09] RAG & FE : NAVI, 사내 업무 어시스턴트 챗봇 🤖](https://github.com/boogiewooki02/SKN13-FINAL-PROJECT)
-- [[2024.11 ~ 2025.01] FE : TalkSpark, 아이스브레이킹 게임 서비스 💬](https://github.com/boogiewooki02/TalkSpark-FE)
-- [[2024.10 ~ 2025.10] FE : 교내 밴드 학회 웹 서비스 🎸](https://github.com/boogiewooki02/Homepage_client_ver2.0)
-- [[2024.07 ~ 2024.09] FE : 홍익대학교 대동제 웹 서비스 🎇](https://github.com/2024HongikFestival/Festa-Client-Application)
 
 <br />
 
