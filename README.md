@@ -13,7 +13,6 @@
 * AWS Cloud Club Hongik 3기 <sub>2025.09~12</sub>
 * SK Networks Family AI Camp 13기 수료 <sub>2025.03~09</sub>
 * 홍익대학교 멋쟁이사자처럼 12기 FE <sub>2024.03~2025.01</sub>
-* 홍익대학교 교내 개발 학회 GDSC Hongik <sub>2023.11~2024.01</sub>
 
 <br />
 
