@@ -1,7 +1,7 @@
 ## ✉️ Contact
-- Blog: https://boogiewooki.tistory.com/
 - Email: boogiewooki02@gmail.com
-- GitHub: https://github.com/boogiewooki02
+- LinkedIn: https://www.linkedin.com/in/dongwook-kim-15303b310/
+- Blog: https://boogiewooki.tistory.com/
 
 <br/>
 
